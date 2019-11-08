@@ -9,7 +9,7 @@
 
 
     <ImageView
-        android:layout_width="100dp"
+        android:layout_width="350dp"
         android:layout_height="100dp"
         android:id="@+id/imageView"
         android:layout_centerHorizontal="true"
@@ -18,9 +18,8 @@
     </ImageView>
 
     <TextView
-        android:layout_width="269dp"
-        android:layout_height="wrap_content"
-        android:text="  Nama : Hafiyyan Silmi
-                        NIM : 1147050069" />
+        android:layout_width="350dp"
+        android:layout_height="100dp"
+        android:text="Nama : Hafiyyan Silmi\nNIM    : 1147050069" />
 
 </LinearLayout>
